@@ -17,7 +17,7 @@ Get Astoria working on Lumia 950 XL.
 1. Run the "Install.bat" as `ADMINISTRATOR`.
 2. Input the MainOS partition letter when it asks. (The script will boot the device to Mass Storage Mode itself)
 3. Reboot your device without unplugging it from the PC when you see "Waiting to reconnect..." in the console.
-4. Done!!
+4. Set the date to `14 Oct 2015` in the OOBE process.
 
 
 ### Post-Installation
