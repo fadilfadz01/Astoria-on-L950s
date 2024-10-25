@@ -2,6 +2,9 @@
 Get Astoria working on Lumia 950s.
 
 
+### NOTE
+This is now outdated guide to get Astoria on your L950s. The Astoria now supported on build 14320, the guide can be found [here](https://empyreal96.github.io/ProjectAstoria).
+
 ### Disclaimer
 >* I'm not responsible for any damage that may occur to your device.
 >* By using this script and flashing Astoria will permanently wipe your data.
